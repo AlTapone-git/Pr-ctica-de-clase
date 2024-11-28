@@ -1,1 +1,11 @@
+# Manual de Usuario
+Bienvenido al manual de usuario para el Supuesto1.
+
+## Índice
+1. [Introducción](docs/introduccion.md)
+2. [Instalación](docs/instalacion.md)
+3. [Tareas de mantenimiento y guias de utilizacioón](docs/uso-basico.md)
+4. [Solución de Problemas- Troubleshouting](docs/solucion-problemas.md)
+5. [FAQ](docs/faq.md)
+
 
